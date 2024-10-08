@@ -25,7 +25,9 @@
     "OTHER_CFLAGS": "-DNATIVE_LITTLE_ENDIAN=1 -DHAVE_MADVISE -DHAVE_MMAP -DHAVE_MPROTECT -DHAVE_POSIX_MEMALIGN -DHAVE_WEAK_SYMBOLS"
   },
   "platforms": {
-    "osx": '10.10',
-    "ios": '9.0',
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
   }
 }
